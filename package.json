@@ -10,6 +10,8 @@
   "author": "Diky Muljana",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2"
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "request": "^2.88.2"
   }
 }
